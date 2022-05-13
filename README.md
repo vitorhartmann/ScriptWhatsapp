@@ -1,7 +1,7 @@
 # ScriptWhatsapp
 Scripts utilizados para macaquear telemarketing.
 
-Como utilizar grande mestre da vantagem?
+Como utilizar, ó grande mestre da vantagem?
 
 1) Abra o whatsapp web
 2) Abra o chat no qual deseja macaquear
