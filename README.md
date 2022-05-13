@@ -9,13 +9,21 @@ Como utilizar, ó grande mestre da vantagem?
 
 2º Abra o chat no qual deseja macaquear
 
-3º Abra o console do google chrome (F12)
+3º Clique no arquivo que deseja utilizar (Arquivo .JS) e selecione "View Raw"
 
-4º Cole o código lá
+![alt text](https://github.com/vitorhartmann/ScriptWhatsapp/blob/main/ViewRaw.PNG)
+
+4º Copie o código que deseja
+
+![alt text](https://github.com/vitorhartmann/ScriptWhatsapp/blob/main/ExemploCodigo.PNG)
+
+5º Abra o console do google chrome (F12)
+
+6º Cole o código lá
 
 ![alt text](https://github.com/vitorhartmann/ScriptWhatsapp/blob/main/Console.PNG)
 
-5º Aperte ENTER
+7º Aperte ENTER
 
 
 Obs: 
