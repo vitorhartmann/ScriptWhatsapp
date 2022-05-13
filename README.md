@@ -3,12 +3,14 @@ Scripts utilizados para macaquear telemarketing.
 
 Como utilizar, ó grande mestre da vantagem?
 
-1) Abra o whatsapp web
-2) Abra o chat no qual deseja macaquear
-3) Abra o console do google chrome (F12)
-4) Cole o código lá
+1º Abra o whatsapp web
+2º Abra o chat no qual deseja macaquear
+3º Abra o console do google chrome (F12)
+4º Cole o código lá
 
 ![alt text](https://github.com/vitorhartmann/ScriptWhatsapp/blob/main/Console.PNG)
+
+5º Aperte ENTER
 
 
 Obs: 
