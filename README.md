@@ -8,7 +8,7 @@ Como utilizar grande mestre da vantagem?
 3) Abra o console do google chrome (F12)
 4) Cole o código lá
 
-https://github.com/vitorhartmann/ScriptWhatsapp/blob/main/Console.PNG
+![alt text](https://github.com/vitorhartmann/ScriptWhatsapp/blob/main/Console.PNG)
 
 
 Obs: 
