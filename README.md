@@ -19,7 +19,7 @@ Como utilizar, ó grande mestre da vantagem?
 
 5º Abra o console do google chrome (F12)
 
-6º Cole o código lá
+6º Cole o código no local desmontrado abaixo
 
 <img src="https://github.com/vitorhartmann/ScriptWhatsapp/blob/main/Fotos/Console.PNG" width="600" height="200">
 
