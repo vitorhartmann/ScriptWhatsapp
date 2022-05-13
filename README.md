@@ -11,7 +11,7 @@ Como utilizar, ó grande mestre da vantagem?
 
 3º Clique no arquivo que deseja utilizar (Arquivo .JS) e selecione "View Raw"
 
-![alt text](https://github.com/vitorhartmann/ScriptWhatsapp/blob/main/Fotos/ViewRaw.PNG)
+<img src="https://github.com/vitorhartmann/ScriptWhatsapp/blob/main/Fotos/ViewRaw.PNG" width="200" height="400">
 
 4º Copie o código que deseja
 
@@ -29,3 +29,4 @@ Como utilizar, ó grande mestre da vantagem?
 Obs: 
 - Atualizar a página irá parar o script.
 - Mudar de chat irá parar o script.
+
