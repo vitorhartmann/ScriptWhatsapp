@@ -7,7 +7,7 @@ Como utilizar grande mestre da vantagem?
 2) Abra o chat no qual deseja macaquear
 3) Abra o console do google chrome (F12)
 4) Cole o código lá
-<img src="Console.png" alt="Console"/>
+![Screenshot](Console.png)
 
 Obs: 
 - Atualizar a página irá parar o script.
