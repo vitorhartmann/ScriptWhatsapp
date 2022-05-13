@@ -15,13 +15,13 @@ Como utilizar, ó grande mestre da vantagem?
 
 4º Copie o código que deseja
 
-![alt text](https://github.com/vitorhartmann/ScriptWhatsapp/blob/main/Fotos/ExemploCodigo.PNG)
+<img src="https://github.com/vitorhartmann/ScriptWhatsapp/blob/main/Fotos/ExemploCodigo.PNG" width="600" height="200">
 
 5º Abra o console do google chrome (F12)
 
 6º Cole o código lá
 
-![alt text](https://github.com/vitorhartmann/ScriptWhatsapp/blob/main/Fotos/Console.PNG)
+<img src="https://github.com/vitorhartmann/ScriptWhatsapp/blob/main/Fotos/Console.PNG" width="600" height="200">
 
 7º Aperte ENTER
 
