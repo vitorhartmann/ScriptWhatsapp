@@ -1,3 +1,6 @@
+<h1>PATCHED</h1>
+
+
 # ScriptWhatsapp
 Scripts utilizados para macaquear telemarketing.
 
