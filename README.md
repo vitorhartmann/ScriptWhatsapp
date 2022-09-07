@@ -1,4 +1,5 @@
-<h1>PATCHED</h1>
+<h1>PATCHED 07/09/2022</h1>
+<h1>Não funcional</h1>
 
 
 # ScriptWhatsapp
