@@ -1,6 +1,4 @@
-<h1>PATCHED 07/09/2022</h1>
-<h1>Não funcional</h1>
-
+<h1>Testado e Funcional 03/10/2022</h1>
 
 # ScriptWhatsapp
 Scripts utilizados para macaquear telemarketing.
